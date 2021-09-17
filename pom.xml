@@ -19,7 +19,7 @@
 
 		<sonar.projectKey>andrell_pucpr</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>7562e23c7a3b5cc9e02847b3840fc786bf216108</sonar.login>
+		<sonar.login>0b6442a7b94bdf7c45018ded6426f12d3eb8c214</sonar.login>
 
 	</properties>
 
